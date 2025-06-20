@@ -123,10 +123,10 @@ Two patients were not billed.
 ####  Time-Based Insights
 
 * Appointments per month
-Appointments were distributed across all 12 months
+   **Appointments were distributed across all 12 months
 
 * Doctor with most appointments in recent months
-Dr. Sarah Taylor (D005) with 18 appointments in the last 6 months. 
+  **Dr. Sarah Taylor (D005) with 18 appointments in the last 6 months. 
 
 * Trends in appointment reasons over time
 Most common appointment reasons overall:
