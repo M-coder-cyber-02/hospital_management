@@ -80,40 +80,40 @@ Five interrelated tables were created:
 
 #### Joins and Basic Aggregations
 
-* Patients with at least one appointment
-All patients had at least one appointment.
+**Q: Patients with at least one appointment.**
+A: All patients had at least one appointment.
 
-* Total appointments per doctor
-Among the 10 doctors, Dr. Sarah Taylor (D005) had the highest number of appointments.
+**Q: Total appointments per doctor.**
+A: Among the 10 doctors, Dr. Sarah Taylor (D005) had the highest number of appointments.
 
-* Patients visiting multiple doctors
-48 patients consulted more than one doctor, suggesting referrals or multi-specialty care.
+**Q: Patients visiting multiple doctors.**
+A: 48 patients consulted more than one doctor, suggesting referrals or multi-specialty care.
   
-* Total billing per patient
-Out of 50 patients, Patient P012 had the highest cumulative billing amount: $30,053.08.
+**Q: Total billing per patient.**
+A: Out of 50 patients, Patient P012 had the highest cumulative billing amount: $30,053.08.
 
-* Treatments performed per doctor
-Dr. Sarah Taylor (D005) also performed the most treatments — 29 in total.
+**Q: Treatments performed per doctor.**
+A: Dr. Sarah Taylor (D005) also performed the most treatments — 29 in total.
 
 ####  Subqueries & Grouped Metrics
 
-* Top 5 treatment types
+**Q: Top 5 treatment types.**
 1. Chemotherapy
 2. X-Ray
 3. ECG
 4. MRI
 5. Physiotherapy
    
-* Patients whose total cost > \$5000
-A total of 44 patients had spent >$5000 on treatments.
+**Q: Patients whose total cost > \$5000.**
+A: A total of 44 patients had spent >$5000 on treatments.
 
-* Doctors treating >10 unique patients
-All 10 doctors treated multiple patients.
+**Q: Doctors treating >10 unique patients.**
+A: All 10 doctors treated multiple patients.
 
-* Patients never billed
-Two patients were not billed.
+**Q: Patients never billed**
+A: Two patients were not billed.
 
-* Average cost by treatment type
+**Q: Average cost by treatment type.**
 1. ECG	           $2532.22
 2. MRI             $3224.95
 3. X-Ray           $2698.87
