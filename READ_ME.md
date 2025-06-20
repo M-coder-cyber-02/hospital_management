@@ -122,14 +122,14 @@ Two patients were not billed.
 
 ####  Time-Based Insights
 
-* Appointments per month
-   **Appointments were distributed across all 12 months
+**Q. Appointments per month.**
+A. Appointments were distributed across all 12 months.
 
-* Doctor with most appointments in recent months
-  **Dr. Sarah Taylor (D005) with 18 appointments in the last 6 months. 
+**Q. Doctor with most appointments in recent months.**
+A. Dr. Sarah Taylor (D005) with 18 appointments in the last 6 months. 
 
-* Trends in appointment reasons over time
-Most common appointment reasons overall:
+**Q. Trends in appointment reasons over time.**
+-**Most common appointment reasons overall:**
 Checkup and Follow-up appointments are consistently the most frequent across months.
 Therapy is also regularly scheduled, peaking in months 4 and 5.
 Emergency visits vary month-to-month but remain present throughout the year.
@@ -139,26 +139,27 @@ Month 11 (November) had a spike in Checkups (6) and Therapy (4).
 Month 6 (June) saw increased Consultations (6).
 Month 5 (May) had one of the highest combined totals across all categories.
 
-* Billing totals by month
-Monthly bills range from 27,569 to 64,271 with the highest total in April. 
+**Q. Billing totals by month**
+A. Monthly bills range from 27,569 to 64,271 with the highest total in April. 
 
 ####  Advanced Analysis
 
-* Top 3 revenue-generating specializations
+**Q. Top 3 revenue-generating specializations**
 1. Pediatrics	$1289294.61
 2. Dermatology	$965566.84
 3. Oncology  	$493428.71
 
-* Appointments scheduled but never treated
-None of the appointments were missed!
+**Q. Appointments scheduled but never treated**
+A. None of the appointments were missed!
 
-* Hospital branch with highest avg. treatment cost
-Westside Clinic with $2966.28
+**Q. Hospital branch with highest avg. treatment cost**
+A. Westside Clinic with $2966.28.
 
-* Average treatment cost per doctor
-Highest is for D008 with $3339.21
-* Patient lifetime treatment spend
-P012 has the highest lifetime treatment spend of $30053.08
+**Q. Average treatment cost per doctor**
+A. Highest is for D008 with $3339.21.
+
+**Q. Patient lifetime treatment spend**
+A. P012 has the highest lifetime treatment spend of $30053.08.
 ---
 
 ###  Sample Query Output
