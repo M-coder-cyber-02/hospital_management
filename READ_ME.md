@@ -122,13 +122,13 @@ A: Two patients were not billed.
 
 ####  Time-Based Insights
 
-**Q. Appointments per month.**
+**Q: Appointments per month.**
 A. Appointments were distributed across all 12 months.
 
-**Q. Doctor with most appointments in recent months.**
+**Q: Doctor with most appointments in recent months.**
 A. Dr. Sarah Taylor (D005) with 18 appointments in the last 6 months. 
 
-**Q. Trends in appointment reasons over time.**
+**Q: Trends in appointment reasons over time.**
 -**Most common appointment reasons overall:**
 Checkup and Follow-up appointments are consistently the most frequent across months.
 Therapy is also regularly scheduled, peaking in months 4 and 5.
@@ -139,27 +139,27 @@ Month 11 (November) had a spike in Checkups (6) and Therapy (4).
 Month 6 (June) saw increased Consultations (6).
 Month 5 (May) had one of the highest combined totals across all categories.
 
-**Q. Billing totals by month**
+**Q: Billing totals by month.**
 A. Monthly bills range from 27,569 to 64,271 with the highest total in April. 
 
 ####  Advanced Analysis
 
-**Q. Top 3 revenue-generating specializations**
+**Q: Top 3 revenue-generating specializations.**
 1. Pediatrics	$1289294.61
 2. Dermatology	$965566.84
 3. Oncology  	$493428.71
 
-**Q. Appointments scheduled but never treated**
+**Q: Appointments scheduled but never treated.**
 A. None of the appointments were missed!
 
-**Q. Hospital branch with highest avg. treatment cost**
+**Q: Hospital branch with highest avg. treatment cost**
 A. Westside Clinic with $2966.28.
 
-**Q. Average treatment cost per doctor**
+**Q: Average treatment cost per doctor.**
 A. Highest is for D008 with $3339.21.
 
-**Q. Patient lifetime treatment spend**
-A. P012 has the highest lifetime treatment spend of $30053.08.
+**Q: Patient lifetime treatment spend.**
+A. P012 has the highest lifetime treatment expenditure of $30,053.08.
 ---
 
 ###  Sample Query Output
