@@ -141,7 +141,7 @@ LIMIT 5;
 
 ## Visualizations
   
-![Appointments per Month](assets/appointments_per_monthly.png)
+![Appointments per Month](assets/appointments_per_month.png)
 
 ![Revenue by Top 3 Specializations](assets/highest_earning_specialties.png)
 
