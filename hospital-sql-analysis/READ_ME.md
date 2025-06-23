@@ -151,6 +151,7 @@ LIMIT 5;
 
 ![Doctor-wise Appointment Volume](assets/doctor_wise_appointments.png)
 
+*Monthly Appointment Recent Trends Heatmap*
 ![Monthly Appointment Reason Trends](assets/monthly_appointment_trends.png)  
 
 ![Top Five Treatments](assets/top_five_treatments.png)
