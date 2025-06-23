@@ -33,7 +33,8 @@ This relational schema includes five interconnected tables:
 | Column             | Type         | Description                    |
 |--------------------|--------------|--------------------------------|
 | doctor_id          | TEXT         | Unique ID                      |
-| first_name, last_name | VARCHAR(50) | Doctor name                    |
+| first_name         | VARCHAR(50)  | Doctor's first name            |
+| last_name          | VARCHAR(50)  | Doctor's last name             | 
 | specialization     | VARCHAR(100) | Medical specialty              |
 | phone_number       | VARCHAR(20)  | Contact number                 |
 | years_experience   | INTEGER      | Years of experience            |
@@ -47,7 +48,8 @@ This relational schema includes five interconnected tables:
 | Column             | Type        | Description                            |
 |--------------------|-------------|----------------------------------------|
 | appointment_id     | TEXT        | Unique ID                              |
-| patient_id, doctor_id | TEXT     | Foreign keys                           |
+| patient_id         | TEXT        | Foreign keys                           |
+| doctor_id          | TEXT        | Foreign keys                           |
 | appointment_date   | DATE        | Date of appointment                    |
 | appointment_time   | TIME        | Time of appointment                    |
 | reason_for_visit   | TEXT        | Reason stated by patient               |
